@@ -8,7 +8,7 @@ You can find this model here https://developer.apple.com/machine-learning/
 
 
 # Steps to run this project:-
-1.Clone or Download the project.
-2.InceptionV3 file is missing. So you can download the model file from https://developer.apple.com/machine-learning/ .
-3.Add the model to your project and be sure that target is set.
-4.Run the project.
+1.Clone or Download the project. <br/>
+2.InceptionV3 file is missing. So you can download the model file from https://developer.apple.com/machine-learning/ .<br/>
+3.Add the model to your project and be sure that target is set. <br/>
+4.Run the project. <br/>
